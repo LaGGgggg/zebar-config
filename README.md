@@ -12,4 +12,3 @@ Changes from the default [starter with-glazewm](https://github.com/glzr-io/zebar
   - Removed Windows logo
   - Added information about [traffic usage](https://github.com/glzr-io/zebar?tab=readme-ov-file#networktraffic)
   - Added "unknown" placeholder for networks without ssids
-
