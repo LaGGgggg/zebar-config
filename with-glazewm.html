@@ -139,7 +139,6 @@
 
               {output.network && (
                 <div className="network">
-                  <span className="right-padding">{output.network.traffic.received.siValue}{output.network.traffic.received.siUnit}</span>
                   {getNetworkIcon(output.network)}
                   {output.network.defaultGateway?.ssid || 'unknown'}
                 </div>
